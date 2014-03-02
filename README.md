@@ -92,24 +92,24 @@ a decentralized application. Here is why:
 
 ### Nomenclature and its importance
 
-Decentralized applications were initially described as Decentralized Autonomous Corporations, DAC, in an article written by Daniel Larimer, of Invictus Innovations. This papers avoids the term corporation for two reasons.
+Decentralized applications were initially described as Decentralized Autonomous Corporations (DAC) in an article written by Daniel Larimer, of Invictus Innovations. This papers avoids the term corporation for two reasons:
 
 First, because it carries with it unnecessary preconceptions. For instance, a corporation is established in a jurisdiction, it has shares, a CEO, employees, etc. DAs, like Bitcoin, have none of these characteristics. In addition, the narrative is very important for the way DAs are perceived by various nations and jurisdictions. The same way that governments struggle to learn and regulate Bitcoin because the concept of currency is associated with it, governments might be compelled to regulate an open-source computer program that is a decentralized application.
 
-Second, because traditional corporations may engage in several techniques to raise capital (like selling shares of its stock and pay dividends or borrowing against its stock and pay interest) that a DA does not need. The concept of a DA is so powerful and elegant, because it does not include  these traditional corporate techniques. The ownership of the DA's tokens is all that is required for the holder to use the system. It's that simple. The value of the tokens is determined by how much people value the application. All the incentives, all the monetization, all the qys to raise capital are built into this beautifully simple structure. DAs are not required to recreate the functions that used to be necessary in centralized
+Second, because traditional corporations may engage in several techniques to raise capital (like selling shares of its stock and paying dividends or borrowing against its stock and paying interest) that a DA does not need. The concept of a DA is so powerful and elegant because it does not include  these traditional corporate techniques. The ownership of the DA's tokens is all that is required for the holder to use the system. It's that simple. The value of the tokens is determined by how much people value the application. All the incentives, all the monetization, all the qys to raise capital are built into this beautifully simple structure. DAs are not required to recreate the functions that used to be necessary in centralized
 corporations in order to balance the power of shareholders and offer
 returns for investors and employees.
 
 ### Classification of decentralized applications
 
-There are several characteristics according to which decentralized
+There are several characteristics that determine how decentralized
 applications can be classified. For the purposes of this paper, we will
 classify DAs based on whether they have their own block chain or they
 use the block chain of another DA. Based on this criterion, there
 are three types of DAs.
 
 **Type I** decentralized applications have their own block chain.
-Bitcoin is the most famous example of a type I decentralized application
+Bitcoin is the most famous example of a type I decentralized application,
 but Litecoin and other "alt-coins" are of the same type.
 
 **Type II** decentralized applications use the block chain of a type I
